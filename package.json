@@ -1,0 +1,22 @@
+{
+  "name": "pakscript-core",
+  "version": "1.0.0",
+  "description": "The official core engine for Pakzone Unique Chain (Chain ID 9855). Integrated with zero-gas protocol and cosmic hierarchy.",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pakzone",
+    "Blockchain",
+    "P-COIN",
+    "Web3",
+    "Pakistan"
+  ],
+  "author": "Muhammad Imran Yaseen",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
