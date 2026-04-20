@@ -1,6 +1,27 @@
 # Pakscript-Core
-​The official core engine for Pakzone Unique Chain (Chain ID 9855). This repository contains the Pakscript v1.0 source code, zero-gas fee logic, and the decentralized management system for P-COIN, PKRT, LUDO, and MEO. Built for a 16-level cosmic hierarchy and 50,000 global units.
-Zero Ownership Policy: To ensure total transparency and decentralization, the liquidity pools are permanently locked. This policy prevents any individual, including the founder, from withdrawing or purchasing coins from the pool directly.
-​Asset Value & Supply: The ecosystem features P-COIN as its primary asset, with a total supply of 1000 Googol and an estimated valuation of 10 Crore USDT. It serves as the foundation for the Pakzone Unique Chain.
-​16-Level Cosmic Hierarchy: The network is structured on a 16-level hierarchy ranging from Atom to Universe. This framework is designed to manage 50,000 global units or super nodes for efficient administration.
-​Diverse Project Ecosystem: The repository supports over 170 projects, including the KITKOT Academy for education, PakAgri Track for agriculture, and the Z One City metaverse. Each project is integrated with the Pakscript v1.0 core.
+# 🌐 Pakzone Network: The Grand Digital Ecosystem
+
+Welcome to the official repository of **Pakzone Network**, a decentralized sovereign digital state built on the **PakZone Unique Chain (Chain ID 9855)**.
+
+## 🛡️ Core Principles
+* **Zero Ownership Policy**: The liquidity pools are permanently locked. No individual, including the founder, can withdraw or purchase coins directly from the pool.
+* **Zero Gas Fee Economy**: Transaction fees are automatically covered by the locked supply, ensuring a cost-free experience for users.
+
+## 💰 Sovereign Assets & Tokenomics
+1. **P-COIN**: Native Gas & Governance Token. Total Supply: **1000 Googol**. Valuation: **10 Crore USDT**.
+2. **PKRT**: 1:1 Stablecoin for daily transactions and commerce.
+3. **LUDO**: Game Coin for the Play-to-Earn (P2E) ecosystem.
+4. **MEO**: Utility Coin for services and exchange fees.
+
+## 🌌 Cosmic Hierarchy (50,000 Units)
+The network follows a 16-level administrative hierarchy:
+* **Levels**: Atom -> Nexus -> Grid -> Vault -> Core -> Node -> Orbit -> Sector -> Matrix -> Domain -> Empire -> Galaxy -> Nebula -> Quasar -> Zenith -> Universe.
+
+## 🛠️ Integrated Projects (170+)
+* **Education**: KITKOT Academy (Learn-to-Earn).
+* **Agriculture**: PakAgri Track (Supply chain & Agri-Loans).
+* **Islamic Finance**: Automatic Zakat Engine & Qarz-e-Hasna Portal.
+* **Metaverse**: Z One City (Virtual Real Estate & Modest Avatars).
+
+---
+**Founder**: Muhammad Imran Yaseen (pakzoneecosystem)
